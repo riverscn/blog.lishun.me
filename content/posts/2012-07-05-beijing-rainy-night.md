@@ -3,6 +3,8 @@ author: "川叶"
 date: 2012-07-05
 slug: beijing rainy night
 title: 北京雨夜
+categories: [随笔]
+tags: [生活]
 isCJKLanguage: true
 ---
 

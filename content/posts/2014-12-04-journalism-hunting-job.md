@@ -3,6 +3,8 @@ author: "川叶"
 date: 2014-12-04
 slug: journalism hunting job
 title: 没想到新闻院毕业生这么难找工作了
+categories: [随笔]
+tags: [工作,新闻]
 isCJKLanguage: true
 ---
 

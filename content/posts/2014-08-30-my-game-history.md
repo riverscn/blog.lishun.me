@@ -3,6 +3,8 @@ author: "川叶"
 date: 2014-08-30
 slug: my game history
 title: 我的电子游戏个人史
+categories: [随笔]
+tags: [游戏]
 isCJKLanguage: true
 ---
 

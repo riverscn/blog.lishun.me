@@ -3,6 +3,8 @@ author: "川叶"
 date: 2013-01-13
 slug: blade runner
 title: 银翼杀手：当人类梦见电子羊
+categories: [随笔]
+tags: [科幻,电影]
 isCJKLanguage: true
 ---
 

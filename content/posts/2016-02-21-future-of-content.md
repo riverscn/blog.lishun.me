@@ -3,6 +3,8 @@ author: "川叶"
 date: 2016-02-21
 slug: future of content
 title: 为何严肃的内容容易吃灰？
+categories: [随笔]
+tags: [互联网]
 isCJKLanguage: true
 ---
 

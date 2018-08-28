@@ -3,6 +3,8 @@ author: "川叶"
 date: 2011-02-25
 slug: migration
 title: 且把他乡作故乡
+categories: [随笔]
+tags: [生活]
 isCJKLanguage: true
 ---
 

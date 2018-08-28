@@ -1,9 +1,12 @@
-#baseurl = "Your site URL"
+baseurl = "/"
 languageCode = "zh-cn"
 Title = "川叶"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; 川叶 版权所有"
 hasCJKLanguage = true
+
+[permalinks]
+  posts = "/:year/:slug/"
 
 [params]
   paginate = 10

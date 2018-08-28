@@ -3,6 +3,8 @@ author: "川叶"
 date: 2015-08-29
 slug: assassin the film
 title: 评刺客聂隐娘：文学提供故事，电影提供幻觉
+categories: [随笔]
+tags: [电影]
 isCJKLanguage: true
 ---
 

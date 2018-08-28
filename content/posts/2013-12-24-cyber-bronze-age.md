@@ -3,6 +3,8 @@ author: "川叶"
 date: 2013-12-24
 slug: cyber bronze age
 title: 赛博青铜时代
+categories: [随笔]
+tags: [互联网]
 isCJKLanguage: true
 ---
 
