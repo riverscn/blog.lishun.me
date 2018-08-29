@@ -8,12 +8,12 @@ hasCJKLanguage = true
 
 # keep old feed name style for continuity
 [outputFormats]
-[outputFormats.HTML]
-baseName = "feed"
+[outputFormats.RSS]
+  baseName = "feed"
 
 [author]
-    name = "川叶"
-    email = "riverscn@gmail.com"
+  name = "川叶"
+  email = "riverscn@gmail.com"
 
 [permalinks]
   posts = "/:year/:slug/"
