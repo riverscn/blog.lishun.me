@@ -16,7 +16,7 @@ hasCJKLanguage = true
   email = "riverscn@gmail.com"
 
 [permalinks]
-  posts = "/:year/:slug/"
+  posts = "/:slug/"
 
 [params]
   paginate = 10
