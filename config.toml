@@ -38,7 +38,7 @@ hasCJKLanguage = true
   # Disqus shortname
   disqus = ""
   # Google Analytics API key.
-  ga_api_key = "Your Google Analytics tracking id"
+  # ga_api_key = "Your Google Analytics tracking id"
   author = "川叶"
   authorwebsite = "lishun.me"
   avatar = "/images/me.png"

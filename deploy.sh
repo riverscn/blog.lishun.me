@@ -2,6 +2,10 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# clean
+rm -r public
+mkdir public
+
 # Build the project.
 hugo -t hugo_theme_pickles # if using a theme, replace with `hugo -t <YOURTHEME>`
 
