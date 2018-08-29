@@ -3,10 +3,13 @@ languageCode = "zh-cn"
 Title = "川叶"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; 川叶 版权所有"
-# keep old feed style for continuity
-rssuri = "feed.xml"
 rssLimit = 20
 hasCJKLanguage = true
+
+# keep old feed name style for continuity
+[outputFormats]
+[outputFormats.HTML]
+baseName = "feed"
 
 [author]
     name = "川叶"
