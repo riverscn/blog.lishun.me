@@ -57,12 +57,12 @@ hasCJKLanguage = true
 
 [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 2
 
 [[menu.main]]
     name = "Tags"
-    url = "/tags"
+    url = "/tags/"
     weight = 4
 
 [related]
