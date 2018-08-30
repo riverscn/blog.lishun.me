@@ -13,7 +13,7 @@ hasCJKLanguage = true
 
 [author]
   name = "川叶"
-  email = "riverscn@gmail.com"
+  #email = "riverscn@gmail.com"
 
 [permalinks]
   posts = "/:slug/"
@@ -39,7 +39,7 @@ hasCJKLanguage = true
   youtube = "riverscn"
   # linkedin = "Your LinkedIn username"
   # Disqus shortname
-  disqus = ""
+  # disqus = "riverscn"
   # Google Analytics API key.
   ga_api_key = "UA-1943325-7"
   author = "川叶"
