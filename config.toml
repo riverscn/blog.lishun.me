@@ -39,7 +39,7 @@ hasCJKLanguage = true
   youtube = "riverscn"
   # linkedin = "Your LinkedIn username"
   # Disqus shortname
-  # disqus = "riverscn"
+  disqus = "riverscn"
   # Google Analytics API key.
   ga_api_key = "UA-1943325-7"
   author = "川叶"
